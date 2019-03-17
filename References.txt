@@ -1,0 +1,3 @@
+https://www.kaggle.com/aishwarya1992/fifa-data-analysis-player-value-prediction/comments#L101
+https://stackoverflow.com/questions/15451251/extract-numeric-part-of-strings-of-mixed-numbers-and-characters-in-r
+https://stackoverflow.com/questions/8072056/convert-height-as-string-xx-to-numeric
